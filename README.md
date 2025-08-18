@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=Hello%2C+it's+Pradeep+Kumar;Future+Fighter+Jet+Pilot" alt="Future Fighter Jet Pilot"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=D9BED1&center=true&vCenter=true&width=500&lines=Hello%2C+it's+Pradeep+Kumar;Future+Fighter+Jet+Pilot" alt="Future Fighter Jet Pilot"/>
   </a>
 </div>
 
