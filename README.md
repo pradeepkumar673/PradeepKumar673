@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeepkumar673" alt="pradeepkumar673" /></a> </p>
 
-- 🔭 I’m currently working on **I’m working on IoT-based smart devices using ESP32 with GSM and GPS, a Raspberry Pi handheld hacking computer which runs on kali linux,and much more projects.**
+- 🔭 I’m currently working on **IoT-based smart devices using ESP32 with GSM and GPS, a Raspberry Pi handheld hacking computer which runs on kali linux,and much more projects.**
 
-- 🌱 I’m currently learning **I’m learning full stack web development (React, Node.js, Express, MongoDB), exploring Linux and Raspberry Pi, understanding the basics of Network-on-Chip (NoC) design, and diving deeper into machine learning**
+- 🌱 I’m currently learning **full stack web development (React, Node.js, Express, MongoDB), exploring Linux and Raspberry Pi, understanding the basics of Network-on-Chip (NoC) design, and diving deeper into machine learning**
 
 - 👯 I’m looking to collaborate on **on IoT and AI projects, open-source robotics, and full stack web development applications.**
 
 - 🤝 I’m looking for help with **integrating advanced AI/ML models into IoT, improving my Linux workflow, and learning how to structure professional projects better.**
 
-- 👨‍💻 All of my projects are available at [here on my GitHub repositories](here on my GitHub repositories)
+- 👨‍💻 All of my projects are available at here on my GitHub repositories
 
-- 📝 I regularly write articles on [I plan to start writing soon on platforms like Medium, mostly about IoT, AI, and web development.](I plan to start writing soon on platforms like Medium, mostly about IoT, AI, and web development.)
+- 📝 I plan to start writing soon on platforms like Medium, mostly about IoT, AI, and web development.)
 
-- 💬 Ask me about **You can ask me about Arduino, ESP32, and Raspberry Pi projects, robotics and IoT ideas, or even coding basics in Python and C++**
+- 💬 Ask me about **Arduino, ESP32, and Raspberry Pi projects, robotics and IoT ideas, or even coding basics in Python and C++**
 
 - 📫 How to reach me **The best way to reach me is through email, Instagram or LinkedIn. You can also check out my GitHub for all my work.**
 
-- 📄 Know about my experiences [You can learn more about me through my portfolio website (coming soon!) and the projects I’ve been building as part of my B.Tech AIML journey](You can learn more about me through my portfolio website (coming soon!) and the projects I’ve been building as part of my B.Tech AIML journey)
+- 📄 Know about my experiences You can learn more about me through my portfolio website (coming soon!) and the projects I’ve been building as part of my B.Tech AIML journey
 
 - ⚡ Fun fact **I enjoy turning random wires and boards into working gadgets. I even made a handheld computer with a Raspberry Pi just for fun! I also love breaking and fixing things as a way to learn faster.**
 
