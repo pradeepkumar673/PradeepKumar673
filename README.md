@@ -39,6 +39,7 @@
 
 <h1>Incoming opensource Contributions 🤗😝</h1>
 
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <h4>connect me on my insta and linkedin to know more about myself and we can also build cool projects together</h4>
