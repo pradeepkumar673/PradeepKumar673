@@ -1,4 +1,4 @@
-
+<!--thanks for checking out my code, follow me on my instagram, linkein and github -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <h1 align="center">Hi 👋, I'm Capt.PradeepKumar</h1>
@@ -46,3 +46,4 @@
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <h4>connect me on my insta and linkedin to know more about myself and we can also build cool projects together</h4>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
