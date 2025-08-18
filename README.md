@@ -1,8 +1,11 @@
 <!--thanks for checking out my code, follow me on my instagram, linkein and github -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4DF0F0&width=500&lines=Hello%2C+I'm+Pradeep+Kumar;B.Tech+AIML+Student;IoT+%7C+Robotics+%7C+Full+Stack+Learner;Future+Fighter+Jet+Pilot" alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=Hello%2C+it's+Pradeep+Kumar;Future+Fighter+Jet+Pilot" alt="Future Fighter Jet Pilot"/>
+  </a>
+</div>
+
 
 <!--h1 align="center">Hi 👋, I'm Capt.PradeepKumar</h1-->
 <h3 align="center">Hi, I’m Pradeep Kumar from India, a 1st-year B.Tech student in Artificial Intelligence and Machine Learning. I’m passionate about IoT, robotics, and embedded systems, and I enjoy experimenting with electronics and coding to turn creative ideas into real projects. Along with my interest in AI and hardware, I’m also learning full stack web development to strengthen my skills in building complete, end-to-end applications</h3>
