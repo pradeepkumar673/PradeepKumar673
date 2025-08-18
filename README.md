@@ -1,8 +1,8 @@
 <!--thanks for checking out my code, follow me on my instagram, linkein and github -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff2c2c&height=120&section=header" alt="header"/> 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=D9BED1&center=true&vCenter=true&width=500&lines=Hello%2C+it's+Pradeep+Kumar;Future+Fighter+Jet+Pilot" alt="Future Fighter Jet Pilot"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=ff2c2c&center=true&vCenter=true&width=500&lines=Hello%2C+it's+Pradeep+Kumar;Future+Fighter+Jet+Pilot" alt="Future Fighter Jet Pilot"/>
   </a>
 </div>
 
@@ -52,4 +52,4 @@
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <h4>connect me on my insta and linkedin to know more about myself and we can also build cool projects together</h4>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff2c2c&height=120&section=footer" alt="footer"/>
