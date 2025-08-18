@@ -37,6 +37,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepkumar673&show_icons=true&locale=en&layout=compact" alt="pradeepkumar673" /></p>
 
+<h1>Incoming opensource Contributions 🤗😝</h1>
 
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
