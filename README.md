@@ -41,4 +41,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
-<h1>connect me on my insta and linkedin to know more about myself and we can also build cool projects together</h1>
+<h4>connect me on my insta and linkedin to know more about myself and we can also build cool projects together</h4>
