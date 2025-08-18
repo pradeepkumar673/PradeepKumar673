@@ -1,79 +1,55 @@
 <!--thanks for checking out my code, follow me on my instagram, linkein and github -->
-<p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
-</p>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4500&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=Hello%2C+it's+Pradeep+Kumar;Future+Fighter+Jet+Pilot" alt="Future Fighter Jet Pilot"/>
   </a>
 </div>
 
+
 <!--h1 align="center">Hi 👋, I'm Capt.PradeepKumar</h1-->
-<h3 align="center">
-  Hi, I’m Pradeep Kumar from India, a 1st-year B.Tech student in Artificial Intelligence and Machine Learning. 
-  I’m passionate about IoT, robotics, and embedded systems, and I enjoy experimenting with electronics and coding 
-  to turn creative ideas into real projects. Along with my interest in AI and hardware, I’m also learning 
-  full stack web development to strengthen my skills in building complete, end-to-end applications
-</h3>
+<h3 align="center">Hi, I’m Pradeep Kumar from India, a 1st-year B.Tech student in Artificial Intelligence and Machine Learning. I’m passionate about IoT, robotics, and embedded systems, and I enjoy experimenting with electronics and coding to turn creative ideas into real projects. Along with my interest in AI and hardware, I’m also learning full stack web development to strengthen my skills in building complete, end-to-end applications</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=pradeepkumar673&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepkumar673" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepkumar673&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepkumar673" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeepkumar673" alt="pradeepkumar673" /></a> </p>
+
+- 🔭 I’m currently working on **IoT-based smart devices using ESP32 with GSM and GPS, a Raspberry Pi handheld hacking computer which runs on kali linux,and much more projects.**
+
+- 🌱 I’m currently learning **full stack web development (React, Node.js, Express, MongoDB), exploring Linux and Raspberry Pi, understanding the basics of Network-on-Chip (NoC) design, and diving deeper into machine learning**
+
+- 👯 I’m looking to collaborate on **on IoT and AI projects, open-source robotics, and full stack web development applications.**
+
+- 🤝 I’m looking for help with **integrating advanced AI/ML models into IoT, improving my Linux workflow, and learning how to structure professional projects better.**
+
+- 👨‍💻 All of my projects are available at here on my GitHub repositories
+
+- 📝 I plan to start writing soon on platforms like Medium, mostly about IoT, AI, and web development.)
+
+- 💬 Ask me about **Arduino, ESP32, and Raspberry Pi projects, robotics and IoT ideas, or even coding basics in Python and C++**
+
+- 📫 How to reach me **The best way to reach me is through email, Instagram or LinkedIn. You can also check out my GitHub for all my work.**
+
+- 📄 Know about my experiences You can learn more about me through my portfolio website (coming soon!) and the projects I’ve been building as part of my B.Tech AIML journey
+
+- ⚡ Fun fact **I enjoy turning random wires and boards into working gadgets. I even made a handheld computer with a Raspberry Pi just for fun! I also love breaking and fixing things as a way to learn faster.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradeepkumarsurendiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradeepkumarsurendiran" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/pradeepkumar673atyt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pradeepkumar673atyt/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@pradeep6736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@pradeep6736" height="30" width="40" /></a>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pradeepkumar673" alt="pradeepkumar673" />
-  </a> 
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p align="center">
-- 🔭 I’m currently working on **IoT-based smart devices using ESP32 with GSM and GPS, a Raspberry Pi handheld hacking computer which runs on kali linux,and much more projects.**  
-<br>
-- 🌱 I’m currently learning **full stack web development (React, Node.js, Express, MongoDB), exploring Linux and Raspberry Pi, understanding the basics of Network-on-Chip (NoC) design, and diving deeper into machine learning**  
-<br>
-- 👯 I’m looking to collaborate on **on IoT and AI projects, open-source robotics, and full stack web development applications.**  
-<br>
-- 🤝 I’m looking for help with **integrating advanced AI/ML models into IoT, improving my Linux workflow, and learning how to structure professional projects better.**  
-<br>
-- 👨‍💻 All of my projects are available here on my GitHub repositories  
-<br>
-- 📝 I plan to start writing soon on platforms like Medium, mostly about IoT, AI, and web development.  
-<br>
-- 💬 Ask me about **Arduino, ESP32, and Raspberry Pi projects, robotics and IoT ideas, or even coding basics in Python and C++**  
-<br>
-- 📫 How to reach me: **The best way to reach me is through email, Instagram or LinkedIn. You can also check out my GitHub for all my work.**  
-<br>
-- 📄 Know about my experiences: **Portfolio website (coming soon!) + projects I’ve been building as part of my B.Tech AIML journey**  
-<br>
-- ⚡ Fun fact: **I enjoy turning random wires and boards into working gadgets. I even made a handheld computer with a Raspberry Pi just for fun! I also love breaking and fixing things as a way to learn faster.**  
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepkumar673&show_icons=true&locale=en&layout=compact" alt="pradeepkumar673" /></p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradeepkumarsurendiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pradeepkumar673atyt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@pradeep6736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
+<h1>Incoming opensource Contributions 🤗😝</h1>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <!-- your icons here (kept same as your original code) -->
-</p>
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepkumar673&show_icons=true&locale=en&layout=compact" alt="pradeepkumar673" />
-</p>
-
-<h1 align="center">Incoming opensource Contributions 🤗😝</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
-  <img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
-</p>
-
-<h4 align="center">Connect with me on Instagram and LinkedIn to know more about myself and we can also build cool projects together</h4>
-
-<p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-</p>
+<h4>connect me on my insta and linkedin to know more about myself and we can also build cool projects together</h4>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
