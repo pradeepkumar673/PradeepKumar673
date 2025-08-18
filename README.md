@@ -1,3 +1,6 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
 <h1 align="center">Hi 👋, I'm Capt.PradeepKumar</h1>
 <h3 align="center">Hi, I’m Pradeep Kumar from India, a 1st-year B.Tech student in Artificial Intelligence and Machine Learning. I’m passionate about IoT, robotics, and embedded systems, and I enjoy experimenting with electronics and coding to turn creative ideas into real projects. Along with my interest in AI and hardware, I’m also learning full stack web development to strengthen my skills in building complete, end-to-end applications</h3>
 
