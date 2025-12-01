@@ -8,7 +8,7 @@
 
 
 <!--h1 align="center">Hi 👋, I'm Capt.PradeepKumar</h1-->
-<h3 align="center">Hi, I’m Pradeep Kumar from India, a 1st-year B.Tech student in Artificial Intelligence and Machine Learning. I’m passionate about IoT, robotics, and embedded systems, and I enjoy experimenting with electronics and coding to turn creative ideas into real projects. Along with my interest in AI and hardware, I’m also learning full stack web development to strengthen my skills in building complete, end-to-end applications</h3>
+<h3 align="center">Hi, I’m Pradeep Kumar from India, a 2nd-year B.Tech student in Artificial Intelligence and Machine Learning. I’m passionate about IoT, robotics, and embedded systems, and I enjoy experimenting with electronics and coding to turn creative ideas into real projects. Along with my interest in AI and hardware, I’m also learning full stack web development to strengthen my skills in building complete, end-to-end applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepkumar673&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepkumar673" /> </p>
 
